@@ -1,0 +1,5 @@
+   Salut  Tout Le Monde !!
+INSERT INTO societe values(1,OUKRIMSNET,MARAKECHE LOT SIDI ABAD,0666547814,05428874514);
+Insert into filialle values('150','OUKRIMSNET.COM','CasaLOtAmal','066468745','0515458484','1');
+
+
